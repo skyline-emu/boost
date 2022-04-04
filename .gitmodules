@@ -58,3 +58,7 @@
 	path = libs/integer
 	url = https://github.com/boostorg/integer.git
 	shallow = true
+[submodule "preprocessor"]
+	path = libs/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+	shallow = true
