@@ -38,3 +38,7 @@
 	path = libs/container_hash
 	url = https://github.com/boostorg/container_hash.git
 	shallow = true
+[submodule "winapi"]
+	path = libs/winapi
+	url = https://github.com/boostorg/winapi.git
+	shallow = true
