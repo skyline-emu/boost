@@ -10,3 +10,7 @@
 	path = tools/cmake
 	url = https://github.com/boostorg/cmake.git
 	shallow = true
+[submodule "core"]
+	path = libs/core
+	url = https://github.com/boostorg/core.git
+	shallow = true
