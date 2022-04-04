@@ -46,3 +46,7 @@
 	path = libs/detail
 	url = https://github.com/boostorg/detail.git
 	shallow = true
+[submodule "throw_exception"]
+	path = libs/throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+	shallow = true
