@@ -30,3 +30,7 @@
 	path = libs/config
 	url = https://github.com/boostorg/config.git
 	shallow = true
+[submodule "type_traits"]
+	path = libs/type_traits
+	url = https://github.com/boostorg/type_traits.git
+	shallow = true
