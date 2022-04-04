@@ -22,3 +22,7 @@
 	path = libs/static_assert
 	url = https://github.com/boostorg/static_assert.git
 	shallow = true
+[submodule "move"]
+	path = libs/move
+	url = https://github.com/boostorg/move.git
+	shallow = true
