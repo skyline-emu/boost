@@ -50,3 +50,7 @@
 	path = libs/throw_exception
 	url = https://github.com/boostorg/throw_exception.git
 	shallow = true
+[submodule "predef"]
+	path = libs/predef
+	url = https://github.com/boostorg/predef.git
+	shallow = true
